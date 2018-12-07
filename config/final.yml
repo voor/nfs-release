@@ -1,7 +1,7 @@
 ---
 final_name: nfs
 blobstore:
-  provider: s3
+  provider: gcs
   options:
     bucket_name: voor-kubo-release-blobs
     region: us-east1
