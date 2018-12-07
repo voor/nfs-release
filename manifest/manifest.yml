@@ -1,0 +1,12 @@
+---
+name: nfs-addons
+
+releases:
+- name: nfs
+  version: 1.0
+
+addons:
+  - name: nfs
+    jobs:
+    - name: nfs
+      release: nfs
