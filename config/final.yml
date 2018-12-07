@@ -1,1 +1,8 @@
-name: nfs
+---
+final_name: nfs
+blobstore:
+  provider: s3
+  options:
+    bucket_name: kubo-release-blobs
+    region: us-east1
+    host: storage.googleapis.com
