@@ -1,0 +1,15 @@
+name: nfs
+version: 1.0.0
+commit_hash: 38a0a5e
+uncommitted_changes: false
+jobs:
+- name: nfs
+  version: 5e25810452b384f9e19573e7f1bd6395c2a1bdf7
+  fingerprint: 5e25810452b384f9e19573e7f1bd6395c2a1bdf7
+  sha1: 960dd44236d49ccd042872b9023e26eb793bad3f
+packages:
+- name: nfs
+  version: bda0d8db80dbb2fcd15260ed4f4843e161fd7272
+  fingerprint: bda0d8db80dbb2fcd15260ed4f4843e161fd7272
+  sha1: c486cf70309f6f69f92baf400a97e0121c4b6f5f
+  dependencies: []
